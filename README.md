@@ -1,7 +1,7 @@
 # JavaScript project
 
-![screenshot](images/panel-1.png)
+![screenshot](img/panel-1.png)
 
-![screenshot](images/panel-2.png)
+![screenshot](img/panel-2.png)
 
-![screenshot](images/panel-3.png)
+![screenshot](img/panel-3.png)
